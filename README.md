@@ -1,3 +1,12 @@
+Project was completed by:
+
+Colin Coon - Google Maps API/Google Places API/Testing/UI
+Alex Trainham - Google Maps API/Routes Functionality/Testing
+Jayanth Lankalapalli - UI/Testing
+Saumya Trivedi - UI/Testing
+
+
+
 Iteration 3 Report - 12/11/19
 
 In iteration three we decided to add more implementations and also decided to focus on the User Interface. We added a new option, Hotels, for the user to choose from. Also we added a feature for the user to alter the distance for the midpoint to be generated. If the user decides to make the meet up point closer to them or the other location then they can alter it by using the slider widget. Furthermore, we tried to make the User Interface more appealing by adding colors to the text and changing the overall theme of the background of the app to being dark. We also added the HalfWay logo to the home page of our app making our app look more professional. Also we added routes to our map so that you can see the route the user can take from their location to the midpoint.
